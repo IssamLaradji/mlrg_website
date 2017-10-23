@@ -1,0 +1,14 @@
+;;
+Winter term 1 2016 - Deep Learning;;Every Wednesday in room ICICS 146 at 5:00 PM
+Date ;Presenter;Topic
+Sep 21;Mark Schmidt;Introduction - 2016_MLRG_DeepLearning.pdf
+Sep 28; Julie; Feedforward neural nets, backpropagation - mlrg_neural_networks.pdf
+Oct 5; Mohamed; Network-independent tricks - Network-Independent tricks.pdf
+Oct 12; Issam; ImageNet tricks
+Oct 19; Jason; Graphical models  - DGM1.pdf
+Oct 26; Saif; Artistic style transfer - AST_slides.pdf
+Nov 2; Nasim; Recurrent neural nets - rnn.pdf
+Nov 9; Stephen/Kevin; Recurrent neural nets 2
+Nov 16;Ricky ; Variational autoencoders and Bayesian dark knowledge
+Nov 23;Reza ; Generative adversarial networks
+Nov 30; Alireza; Memory nets, neural Turing, stack-augmented RNNs

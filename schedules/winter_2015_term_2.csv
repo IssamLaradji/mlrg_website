@@ -1,0 +1,17 @@
+;;
+Winter term 2 2016 - Crash course on Bayesian methods;;Every Wednesday in room ICICS 146 at 5:00 PM
+Date ;Presenter;Topic
+Jan 06;Mark Schmidt;Introduction to Bayesian methods - 2015_MLRG_Bayesian.pdf
+Jan 13;Nasim;Conjugate Priors, Non-Informative Priors - Conjugate.pdf
+Jan 20;Geoff;Hierarchical Modeling and Bayesian Model Selection - MLRG_2016.pdf
+Jan 27;Issam;Gaussian Processes and Empirical Bayes - GaussianProcessses.pdf
+Feb 3;Ricky;Basic Monte Carlo Methods - monte_carlo.pdf
+Feb 10;Jason;MCMC - http://nbviewer.jupyter.org/github/jhartford/MCMC_talk/blob/master/MCMC%20talk.ipynb
+Feb 24;Michael;Bayesian Optimization - mg_mlrg.pdf
+Mar 2;Sharan;Variational Bayes - VI.pdf
+Mar 9;Reza;Stochastic Variational Inference - SVI.pdf
+Mar 16;Mark;Non-Parametric Bayes 1 - NP.pdf
+Mar 23;Reza;Non-Parametric Bayes 2
+Apr 6;Julieta;Sequential Monte Carlo and Population MCMC
+Apr 13;Rudy;Reversible-Jump MCMC
+Apr 20;Alireza;Approximate Bayesian Computation - Approximate_Bayesian_Computation.pdf

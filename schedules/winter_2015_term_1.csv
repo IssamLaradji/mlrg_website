@@ -1,0 +1,16 @@
+;;
+Winter term 1 2015 - Crash course on optimization;;Every Tuesday in room X836 at 5:00 PM
+Date ;Presenter;Topic
+Sep 22;Mark Schmidt;Introduction to convex optimization - 2015_MLRG_ConvexOptimization.pdf
+Sep 29;Mark Schmidt;First-Order Methods - differentiable.pdf
+Oct 06;Julieta;Stochastic Subgradient - stochastic.pdf
+Oct 13;Mohamed;Minimizing Finite Sums - Minimizing_Finite_Sums.pdf
+Oct 20;Jason;Proximal-Gradient - 2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+Oct 27;Ives;Frank-Wolfe,  ADMM - macedo-mlrg-201510.pdf
+Nov 03;Julie;Coordinate Descent - mlrg_CD.pdf
+Nov 10;Sharan;Online Convex Optimization - online_optimization.pdf
+Nov 17;Mark Schmidt;Multi-Level Methods - mirrorMultiLevel.pdf
+Nov 24;Issam;Non-Convex Rates - non_convex_optimization.pdf
+Dec 01;Issam;Parallel/Distributed - parallel.pdf
+Dec 08;;(NIPS)
+Dec 15;Alireza;Deep Learning Local Optima - deep_learning.pdf

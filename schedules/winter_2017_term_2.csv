@@ -1,0 +1,18 @@
+;;
+Winter term 2 2017 - Reinforcement Learning;;Every Tuesday in room ICICS 146 at 5:00 PM
+Date ;Presenter;Topic
+Jan 10;Mark Schmidt;Motivation/Overview - 2017_MLRG_RL.pdf
+Jan 17; Nasim; MDPs (policy iteration, value iteration)
+Jan 24; Julie; Monte Carlo (estimators, on-policy/off-policy learning) - mlrg_MonteCarlo.pdf
+Jan 31; Raunak; Temporal Difference Learning
+Feb 7; Jennifer; Multi-Step Bootstrapping
+Feb 14; Michael; Function Approximation, TD-Gammon
+Feb 21; ; Cancelled
+Feb 28; Ricky; Planning, Control with Approximation, and Eligibility Traces
+Mar 7; Issam ; Optimal control, flying helicopters
+Mar 14; Sharan ; POMDPs
+Mar 21; Jason; Policy gradients, Monte Carlo tree search, and AlphaGo
+Mar 28; Julieta; Value-Iteration Networks
+Apr 4; Glen; RL in Practice
+Apr 11; Michiel; Perspectives on Reinforcement Learning for Locomotion Skills
+Apr 25; Issam; Connection between Generative Adversarial Networks and Inverse Reinforcement Learning

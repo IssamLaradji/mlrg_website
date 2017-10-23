@@ -1,0 +1,13 @@
+;;
+Winter term 1 2017 - Deep Learning Meets Graphical Models;;Every Tuesday in room ICICS 146 at 4:00 PM
+Date ;Presenter;Topic
+Sep 26;Mark; Motivation/overview - 2017_MLRG_DeepGraphical-1.pdf
+Oct 3; Issam; FCNs and CRFs
+Oct 10; Julieta; RNNs
+Oct 17; Michael; Bayesian neural nets 1: sampling
+Oct 24; Jason; Bayesian neural nets 2: variational
+Oct 31; Devon; Variational autoencoders 1: basics
+Nov 7; Sharan; Variational autoencoders 2: variations
+Nov 14; Mohamed; Generative adversarial networks 1: basics
+Nov 21; Alireza ; Generative adversarial networks 2: variations
+Nov 28; Raunak ; Beyond generative adversarial networks

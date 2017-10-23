@@ -1,0 +1,211 @@
+
+
+table{
+
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+td {
+  padding-left: 10pt;
+}
+
+
+body{
+    
+    vertical-align: middle;
+	margin: 0 auto;
+	background-image: url('bg.jpg');
+	background-repeat: repeat;
+	color:#666;
+	font-weight:300;
+	font-size:16px;
+	 font-family: Ubuntu, sans-serif;
+	line-height:28px;
+}
+
+
+a{
+
+	text-decoration: none;
+color:#000;
+	cursor: pointer;
+
+}
+
+
+a:hover,
+a:active,
+a:focus{
+
+	outline: 0;
+	color:#666;
+	text-decoration:underline;
+}
+
+a img {
+	border: none;
+}
+
+a > img {
+	vertical-align: bottom;	
+}
+
+img {
+	max-width: none;	
+}
+
+strong {
+  	font-weight: 500;
+}
+
+p {
+
+	margin: 0 0 30px;
+}
+
+hr {
+	border-style: solid;
+	border-color: #3C3F45;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	margin: 50px 0;	
+}
+
+td{
+border:1px solid #bbb;
+}
+.align_left{
+	float:left;
+	margin:0 25px 0 0px!important;
+}
+
+.align_right{
+	float:right;
+	margin:0 0 0 25px!important;
+}
+
+.text_align_left {
+	text-align: left;
+}
+
+.text_align_center {
+	text-align: center;
+}
+
+.text_align_right {
+	text-align: right;	
+}
+
+.color-text {
+    color: #DE5E60;
+}
+
+.through{
+	text-decoration:line-through;
+}
+
+input, button, select, textarea {
+	font-weight: 300;
+	font-family: 'Titillium Web', sans-serif;
+	outline: 0;
+}
+
+input:focus, 
+textarea:focus,
+input[type="text"]:focus {
+	outline: 0;
+}
+
+
+
+/* ==================================================
+   Typography
+================================================== */
+
+h1,
+h2,
+h3,
+h4{
+	margin:0 0 5px 0;
+	text-align:left;
+	font-weight:300;
+	font-family: Times New Roman,serif;
+	line-height:1.5em;
+}
+h3{
+font-family: "league_gothicregular", "Arial Narrow", Arial, "Helvetica Neue", Helvetica, sans-serif;
+color: #36546F;
+font-size: 1.4em;
+width: 100%;
+border-bottom: 1px dotted grey;
+    }
+
+p{
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+text-align:left;
+line-height:1.3em;
+font-size:17px;
+}
+
+
+h1{
+	font-size:48px;
+}
+
+h2{
+	font-size:30px;
+}
+
+
+h4{
+	font-size:22px;
+
+
+	color:#FDF5E6;
+}
+
+/* ==================================================
+   Header
+================================================== */
+
+header {
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	height: 120px;
+	background: #36546F;
+	color:#FDF5E6;
+
+}
+.header_text{
+	width: 940px;
+	margin: 0 auto;
+	position: relative;
+	height: 120px;
+	color:#FDF5E6;
+}
+
+/* ==================================================
+   Section Page
+================================================== */
+
+.page {
+	width: 940px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	color:#000;
+}
+
+/* ==================================================
+   Footer
+================================================== */
+
+.footer{
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	height: 120px;
+	background: #36546F;
+	color:#FDF5E6;
+}

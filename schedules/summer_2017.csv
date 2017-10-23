@@ -1,0 +1,16 @@
+;;
+Summer 2017 - Online, Active, and Causal learning;;Every Tuesday in room ICICS 146 at 4:00 PM
+Date ;Presenter;Topic
+Jun 6;Mark Schmidt;Motivation/overview, perceptron, follow the leader. - 2017_MLRG_OnlineActiveCausal.pdf
+Jun 13; Julie; Online convex optimization, mirror descent - mlrg_OnlineConvexOpt.pdf
+Jun 20; Alireza; Multi-armed bandits, contextual bandits - Multi_armed_bandits.pdf
+Jun 27; Michael; Heavy hitters
+Jul 4; Raunak; Regularized FTL, AdaGrad, Adam, online-to-batch - mlrg-2017-summer.pdf
+Jul 11; Glen; Best-arm identification, dueling bandits
+Jul 18; Nasim; Uncertainty sampling, variance/error reduction, QBC - ACTIVE_LEARNING_MLRG.pdf
+Jul 25; Mohamed; Planning, A/B testing, Optimal experimental design
+Aug 1; Sanna ; Randomized controlled trials, do-calculus - doCalc.pdf
+Aug 8; Issam ; Granger causality, independent component analysis
+Aug 15; ; 
+Aug 22; Eric; Counterfactuals
+Aug 29; Jason; Instrumental variables

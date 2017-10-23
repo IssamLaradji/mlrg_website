@@ -1,0 +1,20 @@
+;;
+Summer term 2 2015 - Crash course on graphical models;;Room ICICS 238 at 11:00 AM
+Date ;Presenter;Topic
+Aug 17;Mark Schmidt;Why learn about graphical models? - 2015_MLRG_StructuredPrediction.pdf
+Aug 18;Mark Schmidt;Inference in Chains and Trees - 2015_MLRG_ChainTree.pdf
+Aug 19;Julie;Conditional Inference and Cutset Conditioning - UGM_conditional_cutset.pdf
+Aug 20;Mehran;Junction Tree - Junction_Trees.pdf
+Aug 21;Alireza;Semi-Markov/Graph Cuts - 2015_MLRG_semi_markov_graph_cuts.pdf
+Aug 24;Mark Schmidt;MRF/CRF - 2015_MLRG_Learn.pdf
+Aug 25;Julieta;ICM/Block/Alpha - approximate_decoding.pdf
+Aug 26;Jason;MCMC/Herding - Jason-Hartford-MCMC-UGM.pdf
+Aug 27;Ankur;Hidden/RBM/Younes - 2015_ugm_crash_course_rbm.pdf
+Aug 28;Sharan;Structure Learning - Structure_Learning_in_UGMs.pdf
+Aug 31;Mark Schmidt;Variational/MF - 2015_MLRG_Variational.pdf
+Sep 1;Nasim;Bethe/Kikuchi - bethe_kikuchi.pdf
+Sep 2;Reza;TRBP/Convex - Convex_Relax.pdf
+Sep 3;Issam;LP/SDP - optimization_decoding.pdf
+Sep 4;Mark Schmidt;SSVM/BCFW - 2009_MLRG_StructSVM.pdf
+
+
