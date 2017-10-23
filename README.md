@@ -2,9 +2,8 @@
 
 
 
-1. To update the website: http://www.cs.ubc.ca/labs/lci/mlrg/
-    * user your CS account to add the folders `slides`, `schedules`, and `css` and the file `index.html` to:
-`/cs/web/www.cs.ubc.ca/docs/labs/lci/mlrg/`
+1. You can update the mlrg website (http://www.cs.ubc.ca/labs/lci/mlrg/) by changing the contents of the folder `/cs/web/www.cs.ubc.ca/docs/labs/lci/mlrg/`:
+    * For example, you can use your CS account to add `slides`, `schedules`, and `css` and `index.html` to that folder.
 
 
 
@@ -18,9 +17,12 @@
 3. **Adding a pdf file.**
 
 Let's say you wish to add the slides `mirrorDescent.pdf` to the topic
-`mirror descent`. Put `mirrorDescent.pdf` in the `slides` folder and open the corresponding csv file in 
-`schedules`. Find the topic `mirror descent` and change it to `mirror descent - mirrorDescent.pdf`. 
-When you run `main.py`, this generates a pdf hyperlink in the corresponding table in `index.html`.
+`mirror descent`. You can then follow these steps:
+   1. add `mirrorDescent.pdf` to the `slides` folder;
+   2. open the corresponding csv file in `schedules`; and
+   3. find the line `mirror descent` and change it to `mirror descent - mirrorDescent.pdf`. 
+   
+When you run `main.py`, this generates the pdf hyperlink in `index.html`.
 
 4. **Adding a table**
 
@@ -50,4 +52,5 @@ to
                "winter_2015_term_1",
                "summer_2015_term_2"]
 ```
+then generate the new `index.html` by running `main.py`.
 This adds the tables of the csv files specified in `table_names` to `index.html` in order.
