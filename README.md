@@ -15,14 +15,14 @@
     * `index.html` is the main page of the MLRG website; and
     * `main.py` is a script used to generate `index.html` from `template.html`
     
-3. **Add a pdf file.**
+3. **Adding a pdf file.**
 
 Let's say you wish to add the slides `mirrorDescent.pdf` to the topic
 `mirror descent`. Put `mirrorDescent.pdf` in the `slides` folder and open the corresponding csv file in 
 `schedules`. Find the topic `mirror descent` and change it to `mirror descent - mirrorDescent.pdf`. 
 When you run `main.py`, this generates a pdf hyperlink in the corresponding table in `index.html`.
 
-4. **Add a table**
+4. **Adding a table**
 
 Let's say you want to add `winter_2018_term_2.csv` to index.html,  modify the variable `table_names
 in `main.py` from     
