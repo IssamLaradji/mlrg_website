@@ -26,7 +26,7 @@ When you run `main.py`, this generates the pdf hyperlink in `index.html`.
 
 4. **Adding a table**
 
-Let's say you want to add `winter_2018_term_2.csv` to `index.html`,  modify the variable `table_names
+Let's say you want to add `winter_2018_term_2.csv` to `index.html`,  modify the variable `table_names`
 in `main.py` from     
 
 ```python
